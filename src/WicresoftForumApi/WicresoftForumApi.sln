@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WicresoftForumApi", "WicresoftForumApi\WicresoftForumApi.csproj", "{F95FB953-092D-4CEC-8E3F-C4D684EF2D31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WicresoftForumApi", "WicresoftForumApi\WicresoftForumApi.csproj", "{F95FB953-092D-4CEC-8E3F-C4D684EF2D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WicresoftForumDataImport", "WicresoftForumDataImport\WicresoftForumDataImport.csproj", "{B487A2E1-23E8-4672-A2ED-07E9E0913E52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F95FB953-092D-4CEC-8E3F-C4D684EF2D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F95FB953-092D-4CEC-8E3F-C4D684EF2D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F95FB953-092D-4CEC-8E3F-C4D684EF2D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B487A2E1-23E8-4672-A2ED-07E9E0913E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B487A2E1-23E8-4672-A2ED-07E9E0913E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B487A2E1-23E8-4672-A2ED-07E9E0913E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B487A2E1-23E8-4672-A2ED-07E9E0913E52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
